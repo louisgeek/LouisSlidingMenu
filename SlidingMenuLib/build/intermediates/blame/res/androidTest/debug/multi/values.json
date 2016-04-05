@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\LouisWork\\WorkSpace4AndroidStudioProjects\\LouisSlidingMenu\\SlidingMenuLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 43,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "D:\\LouisWork\\WorkSpace4AndroidStudioProjects\\LouisSlidingMenu\\SlidingMenuLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1005,
+                    "endColumn": 49,
+                    "endOffset": 1050
+                },
+                "from": {
+                    "file": "D:\\LouisWork\\WorkSpace4AndroidStudioProjects\\LouisSlidingMenu\\SlidingMenuLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 49,
+                        "endOffset": 1050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 1055,
+                    "endColumn": 42,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "D:\\LouisWork\\WorkSpace4AndroidStudioProjects\\LouisSlidingMenu\\SlidingMenuLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            }
+        ]
+    }
+]
